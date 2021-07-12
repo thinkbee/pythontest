@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+tmp/
+.idea/
+yarn.lock
+package-lock.json
+.nyc_output/
+coverage/
+.tmp*
+db.json
+*.log
+node_modules/
+public/
+.deploy*/

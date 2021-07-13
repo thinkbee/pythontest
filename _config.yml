@@ -104,3 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/thinkbee/thinkbee.github.io.git
+  branch: master
